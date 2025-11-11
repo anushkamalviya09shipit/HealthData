@@ -1,0 +1,19 @@
+{
+  "resourceType": "Practitioner",
+  "id": "Doctor_01",
+  "name": [
+  {
+    "use": "official",
+    "family": "Mathew",
+    "given": ["Savanna"]
+  }
+],
+    "telecom": [
+  {
+    "system": "email",
+    "value": "m.savanna@mayoclinic.hmail.com",
+    "use": "work"
+  }
+],
+    "gender": "female"
+}
